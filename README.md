@@ -4,8 +4,8 @@
 
 ## 바로 사용하기
 
-- 웹에서 실행: <https://promptprobe.github.io/lock-converter/>
-- HTML 직접 다운로드: <https://raw.githubusercontent.com/promptprobe/lock-converter/main/index.html>
+- 웹에서 실행: <https://lock-converter.vercel.app/>
+- HTML 다운로드: 웹페이지 오른쪽 위의 `HTML 다운로드` 버튼
 
 다운로드한 `index.html`은 별도 설치나 서버 없이 브라우저에서 바로 열 수 있습니다. 엑셀 변환 라이브러리가 파일 안에 포함되어 있으므로 다른 파일은 필요하지 않습니다.
 
